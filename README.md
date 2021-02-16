@@ -2,6 +2,7 @@
 - 🔭 I’m currently working on Malang, indonesia as Fulltime Backend Engineer and Software engineer freelance
 - 🌱 I’m currently learning about Go-lang and swift
 
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=kalfian.kalfian)
 [![Linkedin Badge](https://img.shields.io/badge/-kalfian-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kalfian/)](https://www.linkedin.com/in/kalfian/)
 [![Instagram Badge](https://img.shields.io/badge/-kalfiian-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/kalfiian/)](https://instagram.com/kalfiian)
 

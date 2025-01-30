@@ -39,9 +39,9 @@ Let's connect and build something amazing together! 💡💻
 
 ## 📫 Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/kalfian/)
-- [Instagram](https://instagram.com/kalfiian)
-- [Personal Website](https://kalfian.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kalfian/)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=Instagram&logoColor=white)](https://instagram.com/kalfiian)
+[![Website](https://img.shields.io/badge/-Website-000000?style=flat&logo=Google-Chrome&logoColor=white)](https://kalfian.com)
 
 ---
 

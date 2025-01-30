@@ -1,6 +1,10 @@
 # Hi there, I'm Kalfian! 👋
 
-Welcome to my GitHub profile! I'm a passionate developer working in Malang, Indonesia as a full-time Backend Engineer and freelance Software Engineer. I love diving into new technologies and contributing to open-source projects. Here's a bit more about me:
+## Welcome to my GitHub profile! 🚀  
+
+I'm a passionate developer with **7+ years of experience** in backend development, currently working as remote **full-time Backend Engineer** while also taking on **freelance Software Engineering** projects. I love exploring new technologies, optimizing system performance, and contributing to **open-source projects**.  
+
+Let's connect and build something amazing together! 💡💻  
 
 [![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=kalfian.kalfian)](https://github.com/kalfian) 
 [![Linkedin Badge](https://img.shields.io/badge/-kalfian-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kalfian/)](https://www.linkedin.com/in/kalfian/) 

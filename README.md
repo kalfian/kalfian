@@ -32,10 +32,10 @@ Let's connect and build something amazing together! 💡💻
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
-## 📈 GitHub Stats
+<!-- ## 📈 GitHub Stats -->
 
 <!-- ![Kalfian's GitHub stats](https://github-readme-stats.vercel.app/api?username=kalfian&show_icons=true&theme=radical) -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kalfian&layout=compact&theme=radical)
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kalfian&layout=compact&theme=radical) -->
 
 ## 📫 Connect with Me
 
